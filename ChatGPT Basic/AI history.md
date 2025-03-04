@@ -39,3 +39,22 @@ Neural network는 인공적인 neuron들이 배열된 layers로 구성
 각 neuron은 입력을 받아, 계산을 하고, 다음 layer로 계산된 결과를 전달
 
 Deep learning은 여러 layers들로 구성되어, network가 데이터에서 보다 복잡한 패턴을 인식할 수 있게 됨
+
+# AI의 미래 상황?
+현재 연구는 로봇과 AI의 결합의 형태 / 양자컴퓨터와 AI의 결합 등의 내용이 되는 것
+
+AI가 로봇을 제어하는 시뮬레이션을 진행
+metamorph라는 기능으로 동작시도
+metamorph 2
+
+Issac sim : 물리 시뮬레이션을 1000배 빠르게 수행할 수 있음
+모두 다른 세계를 설정하고, 그 세계의 설정으로 학습을 할 수 있음...
+시뮬레이션 세계를 모두 학습하고 나면 실제 현실로..
+
+ChatGPT는 글자를 받아 글자를 내놓는 형태 확장
+Foundation Agent
+Embodiment + 
+
+AI Agent들이 활약하는 세계가 올 것
+Issac sim은 일종의 타임머신
+foundation agent들이 시뮬레이션의 학습을 거치고 나서 실제 세계에 적용
